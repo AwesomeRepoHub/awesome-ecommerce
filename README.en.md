@@ -8,7 +8,9 @@
 <p><a href="README.md">中文</a> · <a href="CONTRIBUTING.md">Contributing</a> · <a href="https://github.com/AwesomeRepoHub/awesome-index">All collections</a></p>
 </div>
 
-> **16 projects, 286k stars in total.** Stars, licenses and last-commit dates are pulled from the GitHub API and refreshed on 2026-10-24. Sorted by stars for reference only — popularity is not quality.
+> **28 projects, 356k stars in total.** Stars, licenses and last-commit dates are pulled from the GitHub API and refreshed on 2026-10-24. Sorted by stars for reference only — popularity is not quality.
+
+<sub>Reading the tables: stars and "Updated" come from the GitHub API at build time; license is read from the repository; notes in parentheses are limitations worth knowing first.</sub>
 
 ## Pick in 30 seconds
 
@@ -27,44 +29,56 @@
 
 ## Headless and composable
 
-For teams that own the frontend and need their own app or storefront.
+_For teams that own the frontend and need their own app or storefront._
 
-| Project | What it does | Stars | License |
-|:--|:--|--:|:--|
-| [Medusa](https://github.com/medusajs/medusa) | The world's most flexible commerce platform for agents and developers | 36.9k | `custom` |
-| [Saleor](https://github.com/saleor/saleor) | Saleor Core: the high performance, composable, headless commerce API. | 23.5k | `BSD-3-Clause` |
-| [Spree](https://github.com/spree/spree) | Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and… | 15.8k | `BSD-3-Clause` |
-| [EverShop](https://github.com/evershopcommerce/evershop) | 🛍️ Typescript E-commerce Platform | 10.5k | `GPL-3.0` |
-| [Sylius](https://github.com/Sylius/Sylius) | Headless open-source eCommerce platform on top of PHP/Symfony/API Platform | 8.6k | `MIT` |
-| [Vendure](https://github.com/vendurehq/vendure) | Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL | 8.5k | `custom` |
+| Project | What it does | Stars | License | Updated |
+|:--|:--|--:|:--|--:|
+| [Medusa](https://github.com/medusajs/medusa) | The world's most flexible commerce platform for agents and developers | 36.9k | `custom` | 2026-10 |
+| [Saleor](https://github.com/saleor/saleor) | Saleor Core: the high performance, composable, headless commerce API. | 23.5k | `BSD-3-Clause` | 2026-10 |
+| [Spree](https://github.com/spree/spree) | Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and… | 15.8k | `BSD-3-Clause` | 2026-10 |
+| [EverShop](https://github.com/evershopcommerce/evershop) | 🛍️ Typescript E-commerce Platform | 10.5k | `GPL-3.0` | 2026-10 |
+| [Aimeos](https://github.com/aimeos/aimeos-laravel) | Laravel ecommerce package for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce | 8.7k | `MIT` | 2026-10 |
+| [Sylius](https://github.com/Sylius/Sylius) | Headless open-source eCommerce platform on top of PHP/Symfony/API Platform | 8.6k | `MIT` | 2026-10 |
+| [Vendure](https://github.com/vendurehq/vendure) | Open-source headless commerce platform built with TypeScript, NestJS, React, and GraphQL | 8.5k | `custom` | 2026-10 |
+| [Django Oscar](https://github.com/django-oscar/django-oscar) | Domain-driven e-commerce for Django | 6.6k | `BSD-3-Clause` | 2026-10 |
+| [Bagisto Next.js](https://github.com/bagisto/nextjs-commerce) | Open source headless commerce that’s fast, flexible, and built to scale,launch stunning storefronts that convert and… | 6.4k | `MIT` | 2026-09 |
+| [Solidus](https://github.com/solidusio/solidus) | 🛒 Solidus, the open-source eCommerce framework for industry trailblazers. | 5.3k | `BSD-3-Clause` | 2026-10 |
 
 <sub>[Back to top](#contents)</sub>
 
 ## Ready-made platforms
 
-Admin, payments and marketing included — minimal customization.
+_Admin, payments and marketing included — minimal customization._
 
-| Project | What it does | Stars | License |
-|:--|:--|--:|:--|
-| [Bagisto](https://github.com/bagisto/bagisto) | Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting… | 28.3k | `MIT` |
-| [Magento 2](https://github.com/magento/magento2) | Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at… | 12.2k | `OSL-3.0` |
-| [newbee-mall](https://github.com/newbee-ltd/newbee-mall) | 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4)… | 11.7k | `GPL-3.0` |
-| [WooCommerce](https://github.com/woocommerce/woocommerce) | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine. | 10.6k | `GPL-2.0` |
-| [nopCommerce](https://github.com/nopSolutions/nopCommerce) | ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart. | 10.2k | `custom` |
-| [CRMEB](https://github.com/crmeb/CRMEB) | 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文… | 9.4k | `Apache-2.0` |
-| [PrestaShop](https://github.com/PrestaShop/PrestaShop) | PrestaShop is the universal open-source software platform to build your e-commerce solution. | 9.2k | `custom` |
+| Project | What it does | Stars | License | Updated |
+|:--|:--|--:|:--|--:|
+| [Bagisto](https://github.com/bagisto/bagisto) | Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting… | 28.3k | `MIT` | 2026-10 |
+| [Magento 2](https://github.com/magento/magento2) | Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at… | 12.2k | `OSL-3.0` | 2026-10 |
+| [newbee-mall](https://github.com/newbee-ltd/newbee-mall) | 🔥 🎉newbee-mall是一套电商系统，包括基础版本(Spring Boot+Thymeleaf)、前后端分离版本(Spring Boot+Vue 3+Element-Plus+Vue-Router 4+Pinia+Vant 4)… | 11.7k | `GPL-3.0` | 2025-10 |
+| [WooCommerce](https://github.com/woocommerce/woocommerce) | A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine. | 10.6k | `GPL-2.0` | 2026-10 |
+| [nopCommerce](https://github.com/nopSolutions/nopCommerce) | ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart. | 10.2k | `custom` | 2026-10 |
+| [CRMEB](https://github.com/crmeb/CRMEB) | 🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文… | 9.4k | `Apache-2.0` | 2026-09 |
+| [PrestaShop](https://github.com/PrestaShop/PrestaShop) | PrestaShop is the universal open-source software platform to build your e-commerce solution. | 9.2k | `custom` | 2026-10 |
+| [NideShop](https://github.com/tumobi/nideshop-mini-program) | NideShop：基于Node.js+MySQL开发的开源微信小程序商城（微信小程序）（长期未更新（2025-05），仅作参考） | 8.4k | `custom` | 2025-05 |
+| [mall4j](https://github.com/gz-yami/mall4j) | ⭐️⭐️⭐️ 电商商城 小程序电商商城系统 PC商城 H5商城 APP商城 Java商城 O2O商城 跨境商城 | 5.3k | `AGPL-3.0` | 2026-10 |
+| [fecshop](https://github.com/fecshop/yii2_fecshop) | yii2 ( PHP ) fecmall（fecshop） core code used for ecommerce shop 多语言多货币多入口的开源电商 B2C 商城，支持移动端vue, app… | 5.3k | `BSD-3-Clause` | 2026-09 |
+| [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | A simple, cross platform, modulith ecommerce system built on .NET | 4.4k | `Apache-2.0` | 2026-06 |
+| [lilishop](https://github.com/lilishop/lilishop) | Java 开源商城系统，基于 Spring Boot / Spring Cloud / Vue / Uniapp 的 B2B2C 多商户商城源码，支持小程序商城、微服务、分销、直播、秒杀、Docker 私有化部署。 | 4.3k | `AGPL-3.0` | 2026-10 |
+| [Shopware](https://github.com/shopware/shopware) | Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and… | 3.5k | `MIT` | 2026-10 |
 
 <sub>[Back to top](#contents)</sub>
 
 ## Payments, back office and search
 
-The storefront is the easy part; these decide whether you can operate.
+_The storefront is the easy part; these decide whether you can operate._
 
-| Project | What it does | Stars | License |
-|:--|:--|--:|:--|
-| [Hyperswitch](https://github.com/juspay/hyperswitch) | Open source, composable payments platform \| PCI compliant \| SaaS and Self-host options \| Enables connectivity to… | 45.4k | `Apache-2.0` |
-| [ERPNext](https://github.com/frappe/erpnext) | Free and Open Source Enterprise Resource Planning (ERP) | 40.5k | `GPL-3.0` |
-| [Marqo](https://github.com/marqo-ai/marqo) | Ecommerce Search and Discovery - marqo.ai | 5.0k | `Apache-2.0` |
+| Project | What it does | Stars | License | Updated |
+|:--|:--|--:|:--|--:|
+| [Hyperswitch](https://github.com/juspay/hyperswitch) | Open source, composable payments platform \| PCI compliant \| SaaS and Self-host options \| Enables connectivity to… | 45.4k | `Apache-2.0` | 2026-10 |
+| [ERPNext](https://github.com/frappe/erpnext) | Free and Open Source Enterprise Resource Planning (ERP) | 40.5k | `GPL-3.0` | 2026-10 |
+| [idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | Free Open Source ERP CRM Software Accounting Invoicing \| Node.Js React | 8.9k | `AGPL-3.0` | 2026-08 |
+| [Marqo](https://github.com/marqo-ai/marqo) | Ecommerce Search and Discovery - marqo.ai | 5.0k | `Apache-2.0` | 2026-09 |
+| [Paymenter](https://github.com/Paymenter/Paymenter) | Free and open-source webshop solution for hostings | 2.8k | `MIT` | 2026-10 |
 
 <sub>[Back to top](#contents)</sub>
 

@@ -8,7 +8,9 @@
 <p><a href="README.en.md">English</a> · <a href="CONTRIBUTING.md">参与贡献</a> · <a href="https://github.com/AwesomeRepoHub/awesome-index">全部合集</a></p>
 </div>
 
-> **16 个项目，共 286k Stars。** Stars、许可证、最近提交时间由 GitHub API 实时读取，数据更新于 2026-10-24。排名按 Stars 排序，仅作热度参考，不代表质量。
+> **28 个项目，共 356k Stars。** Stars、许可证、最近提交时间由 GitHub API 实时读取，数据更新于 2026-10-24。排名按 Stars 排序，仅作热度参考，不代表质量。
+
+<sub>读表说明：Stars 与「更新」都是生成时从 GitHub API 读到的真实值；许可证取自仓库；括号里是使用前要知道的限制。</sub>
 
 ## 30 秒选型
 
@@ -27,44 +29,56 @@
 
 ## 无头与可定制平台
 
-前端自由、要接自有 App 或小程序时选这组。
+_前端自由、要接自有 App 或小程序时选这组。_
 
-| 项目 | 一句话说明 | Stars | 许可证 |
-|:--|:--|--:|:--|
-| [Medusa](https://github.com/medusajs/medusa) | Node/TypeScript 无头电商，模块化改结账流程不用动核心 | 36.9k | `自定义` |
-| [Saleor](https://github.com/saleor/saleor) | GraphQL 优先的无头电商，API 设计与性能是强项 | 23.5k | `BSD-3-Clause` |
-| [Spree](https://github.com/spree/spree) | Rails 老牌电商框架，适合深度定制 B2B 与多商家 | 15.8k | `BSD-3-Clause` |
-| [EverShop](https://github.com/evershopcommerce/evershop) | TypeScript 全栈电商，前后端一体，部署轻 | 10.5k | `GPL-3.0` |
-| [Sylius](https://github.com/Sylius/Sylius) | Symfony 组件化电商，按业务拼装，测试友好 | 8.6k | `MIT` |
-| [Vendure](https://github.com/vendurehq/vendure) | TypeScript 无头电商，插件机制清晰，适合二次开发 | 8.5k | `自定义` |
+| 项目 | 一句话说明 | Stars | 许可证 | 更新 |
+|:--|:--|--:|:--|--:|
+| [Medusa](https://github.com/medusajs/medusa) | Node/TypeScript 无头电商，模块化改结账流程不用动核心 | 36.9k | `自定义` | 2026-10 |
+| [Saleor](https://github.com/saleor/saleor) | GraphQL 优先的无头电商，API 设计与性能是强项 | 23.5k | `BSD-3-Clause` | 2026-10 |
+| [Spree](https://github.com/spree/spree) | Rails 老牌电商框架，适合深度定制 B2B 与多商家 | 15.8k | `BSD-3-Clause` | 2026-10 |
+| [EverShop](https://github.com/evershopcommerce/evershop) | TypeScript 全栈电商，前后端一体，部署轻 | 10.5k | `GPL-3.0` | 2026-10 |
+| [Aimeos](https://github.com/aimeos/aimeos-laravel) | Laravel 电商包，支持多店铺与大规模 SKU | 8.7k | `MIT` | 2026-10 |
+| [Sylius](https://github.com/Sylius/Sylius) | Symfony 组件化电商，按业务拼装，测试友好 | 8.6k | `MIT` | 2026-10 |
+| [Vendure](https://github.com/vendurehq/vendure) | TypeScript 无头电商，插件机制清晰，适合二次开发 | 8.5k | `自定义` | 2026-10 |
+| [Django Oscar](https://github.com/django-oscar/django-oscar) | Django 领域驱动电商，适合定制 B2B 流程 | 6.6k | `BSD-3-Clause` | 2026-10 |
+| [Bagisto Next.js](https://github.com/bagisto/nextjs-commerce) | Bagisto 的 Next.js 无头前端，前后端分离起步 | 6.4k | `MIT` | 2026-09 |
+| [Solidus](https://github.com/solidusio/solidus) | Rails 电商框架，社区维护，适合深度定制 | 5.3k | `BSD-3-Clause` | 2026-10 |
 
 <sub>[回到目录](#目录)</sub>
 
 ## 成品商城系统
 
-后台、支付、营销都自带，改得少就用这组。
+_后台、支付、营销都自带，改得少就用这组。_
 
-| 项目 | 一句话说明 | Stars | 许可证 |
-|:--|:--|--:|:--|
-| [Bagisto](https://github.com/bagisto/bagisto) | Laravel 商城，多店铺多语言开箱可用，中文社区有支持 | 28.3k | `MIT` |
-| [Magento 2](https://github.com/magento/magento2) | 功能最全的电商系统，插件生态大，运维成本也高 | 12.2k | `OSL-3.0` |
-| [newbee-mall](https://github.com/newbee-ltd/newbee-mall) | 教学向 Java 商城，结构清晰，适合读源码入门 | 11.7k | `GPL-3.0` |
-| [WooCommerce](https://github.com/woocommerce/woocommerce) | WordPress 插件，内容站加商城最快，插件生态最大 | 10.6k | `GPL-2.0` |
-| [nopCommerce](https://github.com/nopSolutions/nopCommerce) | .NET 商城，Windows 技术栈团队首选 | 10.2k | `自定义` |
-| [CRMEB](https://github.com/crmeb/CRMEB) | 国产多端商城，小程序/H5/PC 齐，营销功能完整 | 9.4k | `Apache-2.0` |
-| [PrestaShop](https://github.com/PrestaShop/PrestaShop) | 欧洲常用商城，模板与支付模块多，本地化成熟 | 9.2k | `自定义` |
+| 项目 | 一句话说明 | Stars | 许可证 | 更新 |
+|:--|:--|--:|:--|--:|
+| [Bagisto](https://github.com/bagisto/bagisto) | Laravel 商城，多店铺多语言开箱可用，中文社区有支持 | 28.3k | `MIT` | 2026-10 |
+| [Magento 2](https://github.com/magento/magento2) | 功能最全的电商系统，插件生态大，运维成本也高 | 12.2k | `OSL-3.0` | 2026-10 |
+| [newbee-mall](https://github.com/newbee-ltd/newbee-mall) | 教学向 Java 商城，结构清晰，适合读源码入门 | 11.7k | `GPL-3.0` | 2025-10 |
+| [WooCommerce](https://github.com/woocommerce/woocommerce) | WordPress 插件，内容站加商城最快，插件生态最大 | 10.6k | `GPL-2.0` | 2026-10 |
+| [nopCommerce](https://github.com/nopSolutions/nopCommerce) | .NET 商城，Windows 技术栈团队首选 | 10.2k | `自定义` | 2026-10 |
+| [CRMEB](https://github.com/crmeb/CRMEB) | 国产多端商城，小程序/H5/PC 齐，营销功能完整 | 9.4k | `Apache-2.0` | 2026-09 |
+| [PrestaShop](https://github.com/PrestaShop/PrestaShop) | 欧洲常用商城，模板与支付模块多，本地化成熟 | 9.2k | `自定义` | 2026-10 |
+| [NideShop](https://github.com/tumobi/nideshop-mini-program) | 微信小程序商城示例，Node + MySQL，适合学习（长期未更新（2025-05），仅作参考） | 8.4k | `自定义` | 2025-05 |
+| [mall4j](https://github.com/gz-yami/mall4j) | Java 商城，小程序、PC、H5、APP 多端 | 5.3k | `AGPL-3.0` | 2026-10 |
+| [fecshop](https://github.com/fecshop/yii2_fecshop) | Yii2 多语言多货币商城，适合跨境 | 5.3k | `BSD-3-Clause` | 2026-09 |
+| [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) | .NET 模块化商城，跨平台部署 | 4.4k | `Apache-2.0` | 2026-06 |
+| [lilishop](https://github.com/lilishop/lilishop) | Spring Cloud 的 B2B2C 多商户商城，Java 技术栈 | 4.3k | `AGPL-3.0` | 2026-10 |
+| [Shopware](https://github.com/shopware/shopware) | Symfony + Vue 的开源商城，欧洲生态与插件多 | 3.5k | `MIT` | 2026-10 |
 
 <sub>[回到目录](#目录)</sub>
 
 ## 支付、后台与搜索
 
-商城只是前台，这几块决定能不能长期运营。
+_商城只是前台，这几块决定能不能长期运营。_
 
-| 项目 | 一句话说明 | Stars | 许可证 |
-|:--|:--|--:|:--|
-| [Hyperswitch](https://github.com/juspay/hyperswitch) | 支付编排层，一次接入多个渠道，路由与重试集中管 | 45.4k | `Apache-2.0` |
-| [ERPNext](https://github.com/frappe/erpnext) | 开源 ERP，订单、库存、财务一体，适合电商后台 | 40.5k | `GPL-3.0` |
-| [Marqo](https://github.com/marqo-ai/marqo) | 面向商品的向量搜索，支持图文混合检索 | 5.0k | `Apache-2.0` |
+| 项目 | 一句话说明 | Stars | 许可证 | 更新 |
+|:--|:--|--:|:--|--:|
+| [Hyperswitch](https://github.com/juspay/hyperswitch) | 支付编排层，一次接入多个渠道，路由与重试集中管 | 45.4k | `Apache-2.0` | 2026-10 |
+| [ERPNext](https://github.com/frappe/erpnext) | 开源 ERP，订单、库存、财务一体，适合电商后台 | 40.5k | `GPL-3.0` | 2026-10 |
+| [idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) | 开源 ERP/CRM，带发票与账务，Node + React | 8.9k | `AGPL-3.0` | 2026-08 |
+| [Marqo](https://github.com/marqo-ai/marqo) | 面向商品的向量搜索，支持图文混合检索 | 5.0k | `Apache-2.0` | 2026-09 |
+| [Paymenter](https://github.com/Paymenter/Paymenter) | 面向主机商的计费与订单系统，接支付网关 | 2.8k | `MIT` | 2026-10 |
 
 <sub>[回到目录](#目录)</sub>
 
